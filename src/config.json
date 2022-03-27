@@ -1,0 +1,5 @@
+{
+  "authName": "web-client",
+  "authPassword": "password",
+  "apiUrl": "http://localhost:8080/shelter-ua"
+}
